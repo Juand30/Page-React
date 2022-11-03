@@ -14,9 +14,10 @@ const Home = () => {
 	return (
 		<>
         <Navbar/>
-		<div>
+		<div className="container">
 		<Jumbotron/> 
 		<Cards/>
+		<br />
 		<Footer/>
 		</div>	   
 		</>
