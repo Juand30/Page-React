@@ -8,7 +8,7 @@ const Jumbotron = () => {
                 <p>It uses utility classes for typography and spacing to space content out within the larger container. 
                     It uses utility classes for typography and spacing to space content out within the larger container.</p>
                 <p className="lead">
-                    <a className="btn btn-primary btn-lg" href="#" role="button">Call to action!</a>
+                    <a className="btn btn-primary btn-md" href="#" role="button">Call to action!</a>
                 </p>
         </div>
     )

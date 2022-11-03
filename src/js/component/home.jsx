@@ -15,7 +15,7 @@ const Home = () => {
 		<>
         <Navbar/>
 		<div className="container">
-		<Jumbotron/> 
+		<Jumbotron/>
 		<Cards/>
 		<br />
 		<Footer/>

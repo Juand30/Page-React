@@ -6,7 +6,7 @@ const Footer = () => {
     
             <div className="text-center p-3 foot">
                 © 2022 Copyright:
-                <a className="text-dark" href="https://mdbootstrap.com/">4Geeks.com</a>
+                <a className="text-dark" href="https://www.google.com/">4Geeks.com</a>
             </div>
           
         </footer>
